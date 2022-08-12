@@ -10,13 +10,13 @@ function Section1() {
         <div class="box">
             <div class="align-text">
                 <Grid container columnSpacing={{ xs: 1, sm: 2, md: 3 }}>
-                    <Grid item xs={6}> 
+                    <Grid item xs={12} sm={6}> 
                         <h1 class="heading-title"> Take learning <br/> <span class="underline-blue"> to the next level.</span> </h1>
                         <h1 class="heading-subtitle"> Elevate your teaching with Pencil. </h1>
                         <Button variant="contained" color="primary">Try it Now!</Button>
                         <Button variant="outlined" color="primary">Pricing </Button>
                     </Grid>
-                    <Grid item xs={6}>
+                    <Grid item xs={0} sm={6} class="hidden-mobile">
                         <img src={jasmine} alt="applaud pic" />
                     </Grid>
                 </Grid>

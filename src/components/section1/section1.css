@@ -39,6 +39,27 @@
     font-size: 24px;
 }
 
+@media screen and (max-width: 991px){
+.heading-subtitle, .heading-title, .underline-blue {
+    text-align: center;
+}
+}
+
+@media screen and (max-width: 767px) {
+    .align-text{
+        margin-top: 1rem;
+    }
+    .heading-title {
+        font-size: 36px;
+        line-height: 40px;
+    }
+    .hidden-mobile {
+      display: none;
+    }
+}
+
+
+
 
 
 
