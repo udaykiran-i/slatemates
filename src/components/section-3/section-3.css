@@ -1,0 +1,154 @@
+.container{
+    text-align: center;
+    margin: 8rem;
+}
+
+.heading-title2{
+    align-self: flex-start;
+    font-family: 'Noto Serif',sans-serif;
+    color: #000;
+    font-size: 60px;
+    font-weight: 400;
+}
+
+.text-strikethrough{
+    background-image: url("../../images/bg-underline2.svg");
+    background-position: 50% 50%;
+    background-size: auto;
+    background-repeat: no-repeat;
+}
+
+.pic2-cls{
+    max-height: 500px;
+    border: 0;
+    vertical-align: middle;
+    display: inline-block;
+    max-width: 100%;
+}
+
+.blue-text{
+    color: #2f80ed;
+}
+
+.collab-icon-cls{
+    width: 72px;
+    height: 72px;
+}
+
+.heading-title3{
+    position: static;
+    padding-bottom: 0;
+    font-family: 'Source Sans Pro',sans-serif;
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.text-purple{
+    color: #a36bb2;
+}
+
+.heading-subtitle2{
+    padding-top: 10px;
+    font-family: 'Source Sans Pro',sans-serif;
+    color: #4f4f4f;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.heading-subtitle2{
+    margin-left: 0;
+    color: #4f4f4f;
+    font-size: 24px;
+}
+
+.alignment-prop{
+    margin-top: 8rem;
+    text-align: left;
+    padding-left: 3.5rem;
+}
+
+.bg-svg{
+    position: absolute;
+    left: auto;
+    right: 0;
+    bottom: auto;
+    z-index: -1;
+    height: 52%;
+    width: 50%;
+    margin-bottom: 3rem;
+}
+
+.pic3-cls{
+    height: 35rem;
+    width: 35rem;
+}
+
+.heading-title4{
+    position: static;
+    padding-bottom: 0;
+    font-family: 'Source Sans Pro',sans-serif;
+    color: #043160;
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.heading-title5{
+    position: static;
+    padding-bottom: 0;
+    font-family: 'Source Sans Pro',sans-serif;
+    color: #2f80ed;
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.pic5-cls{
+    height: 25rem;
+    width: 33rem;
+}
+
+.alignment-prop2{
+    margin-top: 6rem;
+    text-align: left;
+}
+
+.bg-svg-2{
+    position: absolute;
+    left: auto;
+    right: 0;
+    bottom: auto;
+    z-index: -1;
+    height: 65%;
+    width: 50%;
+    margin-right: 48rem;
+}
+
+.bg-svg-3{
+    position: absolute;
+    left: auto;
+    right: 0;
+    bottom: auto;
+    z-index: -1;
+    height: 66%;
+    width: 50%;
+    margin-top: 2rem;;
+}
+
+.image-align{
+    margin-top: 5rem;
+}
+
+.alignment-prop3{
+    margin-top: 14rem;
+    text-align: left;
+    padding-left: 3.5rem;
+}
+
+.pic7-cls{
+    height: 35rem;
+    width: 35rem;
+}
+
+.pic9-cls{
+    height: 28rem;
+    width: 36rem;
+}
