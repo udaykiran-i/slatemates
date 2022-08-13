@@ -5,10 +5,20 @@
     margin-top: 42rem;
 }
 
+@media screen and (max-width: 991px) {
+    .img-cls{
+        position: relative;
+        width: 100%;
+        display:inline-block;
+        margin-top: 25rem;
+    }
+     
+}
+
 @media screen and (max-width: 767px) {
     .img-cls{
         position: relative;
-        width: 300px;
+        width: 100%;
         display:inline-block;
         margin-top: 18rem;
     }

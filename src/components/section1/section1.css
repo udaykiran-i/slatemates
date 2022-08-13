@@ -40,9 +40,15 @@
 }
 
 @media screen and (max-width: 991px){
-.heading-subtitle, .heading-title, .underline-blue {
-    text-align: center;
-}
+    .align-text{
+        margin-top: 2rem;
+    }
+    .heading-subtitle, .heading-title, .underline-blue {
+        text-align: center;
+    }
+    .hidden-mobile {
+        display: none;
+    }
 }
 
 @media screen and (max-width: 767px) {
